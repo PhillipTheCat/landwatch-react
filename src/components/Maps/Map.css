@@ -1,0 +1,15 @@
+#map-container {
+    display:flex;
+    justify-content: left;
+
+}
+.list {
+    margin-right: 100px;
+    margin-left: 50px;
+}
+.list-item {
+    margin-top: 1em;
+}
+.num {
+    font-size: 1.3em;
+}
